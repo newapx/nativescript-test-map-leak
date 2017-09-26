@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+.hg
+.hgignore
+hooks
+node_modules
+platforms
+
+app/**/*.js
+app/**/*.js.map
